@@ -1,4 +1,6 @@
 # gatos-malhados
    Serialização e Desserialização de JSON utilizando meus gatos como exemplo. :octocat:
-- [ ] traduzir codigo para PT-BR
-- [ ] refatorar modulo write
+
+#  Coisas a fazer antes de publicar qualquer coisa aqui:
+   - [x] traduzir codigo para PT-BR
+   - [x] refatorar modulo write
